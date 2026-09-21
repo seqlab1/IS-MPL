@@ -1,8 +1,5 @@
 # DMLCS
 
-DMLCS is a C++17 implementation of Dynamic Multiple Longest Common Subsequence computation.
-
-The program first constructs a graph from a set of initial sequences. New sequences can then be added one by one to update the MLCS length and graph incrementally. It reports graph size, execution time, and memory usage, and can optionally backtrack through the graph to produce MLCS strings.
 
 ## Project Structure
 
